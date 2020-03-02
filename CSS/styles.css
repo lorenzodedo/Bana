@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  position: relative;
+  margin-top: 80;
+  font-family: "Sacramento", cursive;
+  font-size: 500%;
+  margin-bottom: 0;
+}
+
+p {
+  font-size: 1.2em;
+  position: relative;
+  margin-top: 80;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 30px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+.bottom-cloud {
+  position: relative;
+  right: 230px;
+}
+
+.top-cloud {
+  position: relative;
+  top: 60px;
+  left: 275px;
+}
+
+.mountain {
+  position: relative;
+  bottom: 50px;
+}
+
+.circle {
+  border-radius: 100%;
+}
